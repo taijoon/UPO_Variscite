@@ -13,3 +13,8 @@
 
 ## Linux :
  - ID/PASSWORD : root/root
+
+## Install tool :
+ - Flask
+ - python3
+ - nodeJS
