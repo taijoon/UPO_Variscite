@@ -16,7 +16,6 @@
 
 ## Install tool Done :
  - python3 (python3.9)
- - IAR 
 
 ## Install tool Yet :
  - Flask
