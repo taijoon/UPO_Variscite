@@ -19,6 +19,8 @@
 ## Install tool Done :
  - python3 (python3.9)
 
+## Install tool now :
+ - YOLO4 
 ## Install tool Yet :
  - Flask
  - nodeJS
