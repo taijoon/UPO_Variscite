@@ -14,7 +14,10 @@
 ## Linux :
  - ID/PASSWORD : root/root
 
-## Install tool :
+## Install tool Done :
+ - python3 (python3.9)
+ - IAR 
+
+## Install tool Yet :
  - Flask
- - python3
  - nodeJS
