@@ -17,10 +17,13 @@
  - ID/PASSWORD : root/root
 
 ## Install tool Done :
+ - sdcard resize (32G) - Ubuntu sd card resize.pptx
+ - vim
  - python3 (python3.9)
 
 ## Install tool now :
  - YOLO4 
+ - 
 ## Install tool Yet :
  - Flask
  - nodeJS
