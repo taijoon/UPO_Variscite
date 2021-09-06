@@ -19,7 +19,7 @@
 ## Install tool Done :
  - sdcard resize (26G) - Ubuntu sd card resize.pptx
  - vim
- - python3 (python3.9)
+ - python3=pp (python3.9)
 
 ## Install tool now :
  - YOLO4 
