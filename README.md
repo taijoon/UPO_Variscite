@@ -22,7 +22,7 @@
  - python3=pp (python3.9)
 
 ## Install tool now :
- - YOLO4 
+ - YOLO4 (https://github.com/AlexeyAB/darknet)
  - 
 ## Install tool Yet :
  - Flask
