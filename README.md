@@ -14,6 +14,7 @@
  
 
 ## Linux :
+ - Variscite_Gas_0906.img
  - ID/PASSWORD : root/root
 
 ## Install tool Done :
