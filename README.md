@@ -24,10 +24,10 @@
  - git  (aptitude install libcurl3-gnutls=7.64.0-4+deb10u2)
  - python3=pp (python3.9)
  - YOLO3 (https://pjreddie.com/darknet/install/)
+ - pip, pip3
 
 ## Install tool now :
- - 
+ - Flask
 
 ## Install tool Yet :
- - Flask
  - nodeJS
