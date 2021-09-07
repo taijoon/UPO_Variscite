@@ -25,6 +25,7 @@
  - python3=pp (python3.9)
  - YOLO3 (https://pjreddie.com/darknet/install/)
  - pip, pip3
+ - Flask
 
 ## Install tool now :
  - Flask
