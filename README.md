@@ -26,8 +26,8 @@
  - YOLO3 (https://pjreddie.com/darknet/install/)
 
 ## Install tool now :
- - YOLO3 (https://pjreddie.com/darknet/install/)
  - 
+
 ## Install tool Yet :
  - Flask
  - nodeJS
